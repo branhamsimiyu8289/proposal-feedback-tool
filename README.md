@@ -1,4 +1,4 @@
-# Proposal Feedback Tool
+u# Proposal Feedback Tool
 
 Proposal Feedback Tool is a command-line app for freelancers who want a quick,
 constructive review of a client proposal before submitting it. It sends your
@@ -117,3 +117,7 @@ The tool reports empty proposals without making an API request. It also
 identifies rejected or unauthorized API keys, and reports Gemini API errors,
 timeouts, connection problems, empty responses, and invalid or incomplete
 feedback in the terminal.
+
+## Author 
+
+Branham Simiyu 
