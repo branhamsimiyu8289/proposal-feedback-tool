@@ -1,4 +1,4 @@
-u# Proposal Feedback Tool
+# Proposal Feedback Tool
 
 Proposal Feedback Tool is a command-line app for freelancers who want a quick,
 constructive review of a client proposal before submitting it. It sends your
