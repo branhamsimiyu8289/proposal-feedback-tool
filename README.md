@@ -12,6 +12,19 @@ The rewrite is instructed to stay truthful to the proposal and not invent
 experience, skills, or promises. Review all AI suggestions and make sure they
 accurately represent you before using them.
 
+## What this solution provides
+
+This solution helps freelancers improve the quality of their proposals without
+needing a professional editor or copywriter. It gives a fast, practical review
+of the proposal's messaging by:
+
+- highlighting what is already working well
+- identifying the biggest weakness or gap in the proposal
+- suggesting a stronger opening sentence that stays accurate and credible
+
+The app is designed to make proposal writing easier, more confident, and more
+competitive while keeping the final wording under the user's control.
+
 ## Requirements
 
 - Python 3.10 or later
